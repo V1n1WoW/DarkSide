@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>    
   <noticia>    
-    <link>https://V1n1WoW.github.io/DarkSide/News/pvp.png</link>
-  </noticia>
-  <noticia>    
-    <link>https://V1n1WoW.github.io/DarkSide/News/1.png</link>
-  </noticia>
-   <noticia>    
-    <link>https://V1n1WoW.github.io/DarkSide/News/6.png</link>
+    <link>https://V1n1WoW.github.io/DarkSide/News/REGRAS.png</link>
   </noticia>
    <noticia>    
     <link>https://V1n1WoW.github.io/DarkSide/News/CAÇADOR.png</link>
   </noticia>
    <noticia>    
+    <link>https://V1n1WoW.github.io/DarkSide/News/6.png</link>
+  </noticia>
+   <noticia>    
     <link>https://V1n1WoW.github.io/DarkSide/News/CAÇADORCOURO.png</link>
   </noticia>
    <noticia>    
-    <link>https://V1n1WoW.github.io/DarkSide/News/REGRAS.png</link>
+    <link>https://V1n1WoW.github.io/DarkSide/News/1.png</link>
   </noticia>
    <noticia>    
     <link>https://V1n1WoW.github.io/DarkSide/News/TRAFICANTE.png</link>
+  </noticia>
+  <noticia>    
+    <link>https://V1n1WoW.github.io/DarkSide/News/7.png</link>
+  </noticia>
+  <noticia>    
+    <link>https://V1n1WoW.github.io/DarkSide/News/DOAÇÕES.png</link>
   </noticia>
 </root>
