@@ -6,8 +6,8 @@
   },
   {
     "FileName": "DayZ Launcher.exe",
-    "Size": 12820992,
-    "MD5": "36c130f9c9c1671f549dd8ad2149af0c"
+    "Size": 12819456,
+    "MD5": "b07e126f713582fc7213f7455e8d5a38"
   },
   {
     "FileName": "DayZ Launcher.exe.config",
@@ -58,6 +58,11 @@
     "FileName": "steam_appid.txt",
     "Size": 9,
     "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
+    "FileName": "System.Runtime.CompilerServices.Unsafe.dll",
+    "Size": 18024,
+    "MD5": "c610e828b54001574d86dd2ed730e392"
   },
   {
     "FileName": "Addons\\ai.pbo",
