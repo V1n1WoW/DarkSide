@@ -5,6 +5,11 @@
     "MD5": "14a6db156de5b3e224232f6251f839dd"
   },
   {
+    "FileName": "DayZ Launcher.exe",
+    "Size": 12820992,
+    "MD5": "4f7ac8fb9bf8fc7794865c4716ebf92f"
+  },
+  {
     "FileName": "DayZ Launcher.exe.config",
     "Size": 552,
     "MD5": "ea18aff34def054cc191cf77a13dfc7d"
@@ -20,11 +25,6 @@
     "MD5": "fbe3dd21e1b2da768eab8e6dca620d4c"
   },
   {
-    "FileName": "DayZ_Launcher.exe",
-    "Size": 12820992,
-    "MD5": "0649b28c433023f0cf495d6312d99491"
-  },
-  {
     "FileName": "DayZ_x64.exe",
     "Size": 16396016,
     "MD5": "9ad8f201474df0523af00770c1fb5db8"
@@ -35,11 +35,6 @@
     "MD5": "3956130e36754f184a0443c850f708f8"
   },
   {
-    "FileName": "filelist.json",
-    "Size": 155955,
-    "MD5": "8d912da3c56773fa8a054583ec28957d"
-  },
-  {
     "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
     "Size": 26752,
     "MD5": "970b6e6478ae3ab699f277d77de0cd19"
@@ -48,6 +43,11 @@
     "FileName": "Newtonsoft.Json.dll",
     "Size": 711952,
     "MD5": "195ffb7167db3219b217c4fd439eedd6"
+  },
+  {
+    "FileName": "Nickname.ini",
+    "Size": 6,
+    "MD5": "08910f0b3187fd8213c13dff3e404b22"
   },
   {
     "FileName": "steam_api64.dll",
@@ -4495,51 +4495,6 @@
     "MD5": "f243b90ab8fcdcf180b6640192d77620"
   },
   {
-    "FileName": "Mods\\@ParagonStorage\\meta.cpp",
-    "Size": 103,
-    "MD5": "b9f954f3009abdbd5d1836ba4ced85de"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\addons\\ParagonStorage.pbo",
-    "Size": 763009340,
-    "MD5": "2253dd800be7fce5653b5e33c69a163b"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\addons\\ParagonStorage.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "091c45fee2676858490d70ce106812f5"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\addons\\TabletHacking.pbo",
-    "Size": 264892,
-    "MD5": "70a6b5a6330e5fa48ea9b6a476abe469"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\addons\\TabletHacking.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "f9b50eb58169a12dabdea50b56c77a73"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\extras\\Class names.txt",
-    "Size": 5004,
-    "MD5": "04885288b86ec4c0d96390a2c59af6b7"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\extras\\READ.cpp",
-    "Size": 549,
-    "MD5": "deea9444fc21755ada4f79eb4aed0f87"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\extras\\TraderConfig.txt",
-    "Size": 9737,
-    "MD5": "50c633d12caa139e36695e181dbe612d"
-  },
-  {
-    "FileName": "Mods\\@ParagonStorage\\extras\\types.xml",
-    "Size": 72162,
-    "MD5": "73e5b561e3a18cc21f9f037e5207065c"
-  },
-  {
     "FileName": "Mods\\@PVEZ\\meta.cpp",
     "Size": 92,
     "MD5": "3124b8638e73115f2a53e195bb900af3"
@@ -4558,6 +4513,66 @@
     "FileName": "Mods\\@PVEZ\\Addons\\PVEZ.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "8f8acf919930bf37a6444ab04634b3fc"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\meta.cpp",
+    "Size": 101,
+    "MD5": "08d9131f60d00ba2ab97505535ec7a5c"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Addons\\0_rag_baseitems_define.pbo",
+    "Size": 951,
+    "MD5": "6a15f2113fa441df2717f2c3d5eee9e8"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Addons\\0_rag_baseitems_define.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "5419780b4ed8cf270671fc91eb64f98e"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Addons\\rag_baseitems.pbo",
+    "Size": 1850521806,
+    "MD5": "855ca0be0059035d6cf9b7f0d7708ef3"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Addons\\rag_baseitems.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "357e5963c785eed403f59c5b9a137389"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\Instructions.txt",
+    "Size": 2326,
+    "MD5": "eada02359c7410e0cc62c0259ad3b3b9"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\paint.png",
+    "Size": 1347659,
+    "MD5": "766d60e3268bc756a510f30a11becb14"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\RaG_Baseitems_explanation.json",
+    "Size": 2653,
+    "MD5": "d102b2157fd8ca277c66a48af3676841"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\workbench.png",
+    "Size": 2467691,
+    "MD5": "471c69d47ae2f32961e6eec7589e77a0"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\Types\\cfgrandompresets.xml",
+    "Size": 1062,
+    "MD5": "beda4231488fbb79330f9cea54cf9251"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\Types\\cfgspawnabletypes.xml",
+    "Size": 432,
+    "MD5": "3d2bd79e2e63a2b08a2fbd66775f918e"
+  },
+  {
+    "FileName": "Mods\\@RaG_BaseItems\\Extras\\Types\\rag_baseitems.xml",
+    "Size": 127368,
+    "MD5": "a6b1d04ff26cf2169377e7b1e66df013"
   },
   {
     "FileName": "Mods\\@RareAnimals\\meta.cpp",
