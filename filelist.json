@@ -7,7 +7,7 @@
   {
     "FileName": "DayZ Launcher.exe",
     "Size": 12820992,
-    "MD5": "4f7ac8fb9bf8fc7794865c4716ebf92f"
+    "MD5": "36c130f9c9c1671f549dd8ad2149af0c"
   },
   {
     "FileName": "DayZ Launcher.exe.config",
@@ -4513,66 +4513,6 @@
     "FileName": "Mods\\@PVEZ\\Addons\\PVEZ.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "8f8acf919930bf37a6444ab04634b3fc"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\meta.cpp",
-    "Size": 101,
-    "MD5": "08d9131f60d00ba2ab97505535ec7a5c"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Addons\\0_rag_baseitems_define.pbo",
-    "Size": 951,
-    "MD5": "6a15f2113fa441df2717f2c3d5eee9e8"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Addons\\0_rag_baseitems_define.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "7f0a07c2df6ce66d09765f31fcb092f1"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Addons\\rag_baseitems.pbo",
-    "Size": 1850521806,
-    "MD5": "855ca0be0059035d6cf9b7f0d7708ef3"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Addons\\rag_baseitems.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "40ed8359f9e05bf1441248abeeb7349f"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\Instructions.txt",
-    "Size": 2326,
-    "MD5": "eada02359c7410e0cc62c0259ad3b3b9"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\paint.png",
-    "Size": 1347659,
-    "MD5": "766d60e3268bc756a510f30a11becb14"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\RaG_Baseitems_explanation.json",
-    "Size": 2653,
-    "MD5": "d102b2157fd8ca277c66a48af3676841"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\INFO FOR SERVEROWNERS\\workbench.png",
-    "Size": 2467691,
-    "MD5": "471c69d47ae2f32961e6eec7589e77a0"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\Types\\cfgrandompresets.xml",
-    "Size": 1062,
-    "MD5": "beda4231488fbb79330f9cea54cf9251"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\Types\\cfgspawnabletypes.xml",
-    "Size": 432,
-    "MD5": "3d2bd79e2e63a2b08a2fbd66775f918e"
-  },
-  {
-    "FileName": "Mods\\@RaG_BaseItems\\Extras\\Types\\rag_baseitems.xml",
-    "Size": 127368,
-    "MD5": "a6b1d04ff26cf2169377e7b1e66df013"
   },
   {
     "FileName": "Mods\\@RareAnimals\\meta.cpp",
