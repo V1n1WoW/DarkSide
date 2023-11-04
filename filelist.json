@@ -6,8 +6,8 @@
   },
   {
     "FileName": "DayZ Launcher.exe",
-    "Size": 12819456,
-    "MD5": "b07e126f713582fc7213f7455e8d5a38"
+    "Size": 12819968,
+    "MD5": "ce4719d455eb9d5dbe1676063a0af822"
   },
   {
     "FileName": "DayZ Launcher.exe.config",
@@ -43,6 +43,11 @@
     "FileName": "Newtonsoft.Json.dll",
     "Size": 711952,
     "MD5": "195ffb7167db3219b217c4fd439eedd6"
+  },
+  {
+    "FileName": "Nickname.ini",
+    "Size": 6,
+    "MD5": "08910f0b3187fd8213c13dff3e404b22"
   },
   {
     "FileName": "steam_api64.dll",
@@ -4515,6 +4520,26 @@
     "MD5": "8f8acf919930bf37a6444ab04634b3fc"
   },
   {
+    "FileName": "Mods\\@PVEZMarkersOnVPPMap\\meta.cpp",
+    "Size": 107,
+    "MD5": "ddea4cefae4fb749d56b33776fc56cec"
+  },
+  {
+    "FileName": "Mods\\@PVEZMarkersOnVPPMap\\mod.cpp",
+    "Size": 529,
+    "MD5": "1fa11f0120045b98d941db173b58f377"
+  },
+  {
+    "FileName": "Mods\\@PVEZMarkersOnVPPMap\\Addons\\PVEZMarkersOnVPPMap.pbo",
+    "Size": 281388,
+    "MD5": "9bac43d979157a9311fa2f54f7462f3e"
+  },
+  {
+    "FileName": "Mods\\@PVEZMarkersOnVPPMap\\Addons\\PVEZMarkersOnVPPMap.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "1c0d2f9586498afe6f404b421de80a23"
+  },
+  {
     "FileName": "Mods\\@RaG_BaseItems\\meta.cpp",
     "Size": 101,
     "MD5": "08d9131f60d00ba2ab97505535ec7a5c"
@@ -4588,6 +4613,36 @@
     "FileName": "Mods\\@RareAnimals\\Addons\\RareAnimals.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "2172685004c8b23e0cad076065150c4a"
+  },
+  {
+    "FileName": "Mods\\@SchanaModParty\\meta.cpp",
+    "Size": 102,
+    "MD5": "c0a8c50755fb6db3c0bc45d1a34593ce"
+  },
+  {
+    "FileName": "Mods\\@SchanaModParty\\mod.cpp",
+    "Size": 435,
+    "MD5": "fd29588125b0872a627e898f19fb366c"
+  },
+  {
+    "FileName": "Mods\\@SchanaModParty\\Addons\\SchanaModParty.pbo",
+    "Size": 32665715,
+    "MD5": "f8e489e28ff0d1c938bc032f82255483"
+  },
+  {
+    "FileName": "Mods\\@SchanaModParty\\Addons\\SchanaModParty.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "f0ff7d75786af45369bc0b1a6e77bf3c"
+  },
+  {
+    "FileName": "Mods\\@SchanaModParty\\Addons\\SchanaModPartyDefine.pbo",
+    "Size": 862,
+    "MD5": "a3c43b36258739b3a79cc8bbd270f477"
+  },
+  {
+    "FileName": "Mods\\@SchanaModParty\\Addons\\SchanaModPartyDefine.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "c9a2beaf58cbadbf6e22e5a98167bf83"
   },
   {
     "FileName": "Mods\\@SNAFU\\Addons\\Chims_Snafu_Reload_Fix.pbo",
@@ -4848,6 +4903,26 @@
     "FileName": "Mods\\@TraderPlus\\Addons\\TraderSign.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "95ae3358b8e2015155fd17f5abdaec2d"
+  },
+  {
+    "FileName": "Mods\\@VanillaPlusPlusMap\\meta.cpp",
+    "Size": 106,
+    "MD5": "6934d6f689b71c1b334ce3806367aee4"
+  },
+  {
+    "FileName": "Mods\\@VanillaPlusPlusMap\\mod.cpp",
+    "Size": 1493,
+    "MD5": "05cd9a590ce827e3043acd0a6c035464"
+  },
+  {
+    "FileName": "Mods\\@VanillaPlusPlusMap\\Addons\\VanillaPPMap.pbo",
+    "Size": 1024898,
+    "MD5": "f405e11f16e652aa1d44d6b5a329d701"
+  },
+  {
+    "FileName": "Mods\\@VanillaPlusPlusMap\\Addons\\VanillaPPMap.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "5052130032d260fb47526235189516a1"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\meta.cpp",
