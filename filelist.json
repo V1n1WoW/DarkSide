@@ -45,11 +45,6 @@
     "MD5": "195ffb7167db3219b217c4fd439eedd6"
   },
   {
-    "FileName": "Nickname.ini",
-    "Size": 6,
-    "MD5": "08910f0b3187fd8213c13dff3e404b22"
-  },
-  {
     "FileName": "steam_api64.dll",
     "Size": 834560,
     "MD5": "30091b91923d9583a54a93ed1145554b"
@@ -3802,12 +3797,12 @@
   {
     "FileName": "Mods\\@Darkside\\Addons\\RoupaPlayerDKS.pbo",
     "Size": 2227367,
-    "MD5": "88b308b8e890a5a497482e8c3d1589a7"
+    "MD5": "2e02fd135b1ef649cbab28e241e00396"
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\RoupaPlayerDKS.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "084a6ad5d76a013d78bd41e242696783"
+    "MD5": "68e4244caa2da2632d30a06fa3e413db"
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\ZDependenciesKOTH.pbo",
