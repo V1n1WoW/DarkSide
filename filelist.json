@@ -1,4 +1,4 @@
-[
+gi[
   {
     "FileName": "amd_ags_x64.dll",
     "Size": 111536,
@@ -36,8 +36,8 @@
   },
   {
     "FileName": "filelist.json",
-    "Size": 140871,
-    "MD5": "befa2230b9d360c1bdad80361b06aa1e"
+    "Size": 0,
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
@@ -3806,13 +3806,13 @@
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\RoupaPlayerDKS.pbo",
-    "Size": 2227746,
-    "MD5": "27249a8462909349a72202cdff90ffcb"
+    "Size": 2227367,
+    "MD5": "88b308b8e890a5a497482e8c3d1589a7"
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\RoupaPlayerDKS.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "27476e101df5b4ae5859fe6972a10a94"
+    "MD5": "084a6ad5d76a013d78bd41e242696783"
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\ZDependenciesKOTH.pbo",
