@@ -1,4 +1,4 @@
-gi[
+[
   {
     "FileName": "amd_ags_x64.dll",
     "Size": 111536,
@@ -33,11 +33,6 @@ gi[
     "FileName": "DiscordRPC.dll",
     "Size": 83968,
     "MD5": "3956130e36754f184a0443c850f708f8"
-  },
-  {
-    "FileName": "filelist.json",
-    "Size": 0,
-    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
