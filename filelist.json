@@ -35,6 +35,11 @@
     "MD5": "3956130e36754f184a0443c850f708f8"
   },
   {
+    "FileName": "filelist.json",
+    "Size": 140871,
+    "MD5": "befa2230b9d360c1bdad80361b06aa1e"
+  },
+  {
     "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
     "Size": 26752,
     "MD5": "970b6e6478ae3ab699f277d77de0cd19"
@@ -3798,6 +3803,16 @@
     "FileName": "Mods\\@Darkside\\Addons\\NoVehDmg.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "e5978eddf432613cb9f29084cd6907e8"
+  },
+  {
+    "FileName": "Mods\\@Darkside\\Addons\\RoupaPlayerDKS.pbo",
+    "Size": 2227746,
+    "MD5": "27249a8462909349a72202cdff90ffcb"
+  },
+  {
+    "FileName": "Mods\\@Darkside\\Addons\\RoupaPlayerDKS.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "27476e101df5b4ae5859fe6972a10a94"
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\ZDependenciesKOTH.pbo",
