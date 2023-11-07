@@ -4932,7 +4932,7 @@
   {
     "FileName": "Mods\\@VPPAdminTools\\meta.cpp",
     "Size": 101,
-    "MD5": "e2d0f3f8a99a7db58b097cdc02042965"
+    "MD5": "5ba91cf7f37504d4ba453ca059cae5d9"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\mod.cpp",
@@ -4941,23 +4941,23 @@
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\assets.pbo",
-    "Size": 89091,
-    "MD5": "549af86ec3a79fbf96d009e805b19414"
+    "Size": 83582,
+    "MD5": "687b723d97f3d9b80705706e4bbccf98"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\assets.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "268dba9a880dc02b4a7a8dad0b5f961d"
+    "MD5": "6f91c64feab285f9568fc6d5428e76ed"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo",
-    "Size": 10041235,
-    "MD5": "cf98e0664463ab47461ae1272c428e77"
+    "Size": 2018866,
+    "MD5": "a2effe52a9521b2b7858457b2dbe5a71"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "28f5e4f075a47f1bf9217be9871a6f64"
+    "MD5": "4553cb7b5b3160e65636723f97d01486"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo",
