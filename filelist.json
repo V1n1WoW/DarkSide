@@ -7,7 +7,7 @@
   {
     "FileName": "DayZ Launcher.exe",
     "Size": 12819968,
-    "MD5": "ce4719d455eb9d5dbe1676063a0af822"
+    "MD5": "9824ba5bdcb39b19ccb7ce4a1c6c2e46"
   },
   {
     "FileName": "DayZ Launcher.exe.config",
@@ -4505,26 +4505,6 @@
     "MD5": "f243b90ab8fcdcf180b6640192d77620"
   },
   {
-    "FileName": "Mods\\@PVEZ\\meta.cpp",
-    "Size": 92,
-    "MD5": "3124b8638e73115f2a53e195bb900af3"
-  },
-  {
-    "FileName": "Mods\\@PVEZ\\mod.cpp",
-    "Size": 435,
-    "MD5": "53dea3ad576ac28d7f9c8fc1407fbd5e"
-  },
-  {
-    "FileName": "Mods\\@PVEZ\\Addons\\PVEZ.pbo",
-    "Size": 744446,
-    "MD5": "73ef38f0bea3452395629b6c74a89aa8"
-  },
-  {
-    "FileName": "Mods\\@PVEZ\\Addons\\PVEZ.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "8f8acf919930bf37a6444ab04634b3fc"
-  },
-  {
     "FileName": "Mods\\@PVEZMarkersOnVPPMap\\meta.cpp",
     "Size": 107,
     "MD5": "ddea4cefae4fb749d56b33776fc56cec"
@@ -4543,6 +4523,21 @@
     "FileName": "Mods\\@PVEZMarkersOnVPPMap\\Addons\\PVEZMarkersOnVPPMap.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "1c0d2f9586498afe6f404b421de80a23"
+  },
+  {
+    "FileName": "Mods\\@PVEZReloaded\\meta.cpp",
+    "Size": 101,
+    "MD5": "bd70c4ec9bfcaf9f2a2358a920f958a3"
+  },
+  {
+    "FileName": "Mods\\@PVEZReloaded\\Addons\\PVEZ.pbo",
+    "Size": 1071393,
+    "MD5": "d9cf2772a417e3d26aa626e6f187ed67"
+  },
+  {
+    "FileName": "Mods\\@PVEZReloaded\\Addons\\PVEZ.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "a9761d49040cedf8ece16bd7db085a01"
   },
   {
     "FileName": "Mods\\@RaG_BaseItems\\meta.cpp",
