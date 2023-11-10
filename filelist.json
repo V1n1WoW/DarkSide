@@ -7,7 +7,7 @@
   {
     "FileName": "DayZ Launcher.exe",
     "Size": 12819968,
-    "MD5": "0d8be9343731a5c65cb1014ff301e424"
+    "MD5": "6409a276b147e9df7e19968fdea15566"
   },
   {
     "FileName": "DayZ Launcher.exe.config",
@@ -4778,6 +4778,46 @@
     "FileName": "Mods\\@STALKERMutants\\addons\\XZ_STALKER_Mutants.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "3e345af557f0fc3e9f11eaff42cfb4ae"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\meta.cpp",
+    "Size": 113,
+    "MD5": "9e9a46f4e675299de7867451d8ed6f18"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Addons\\LeatherCrafting.pbo",
+    "Size": 163830547,
+    "MD5": "79e5f4314e90daaac5cf7b79087888d0"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Addons\\LeatherCrafting.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "dbec1b6e0adcf9557bcf9ee952be6ff5"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Config\\Should Auto Generate.txt",
+    "Size": 0,
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Config\\^^ If not put this folder in profile foler.txt",
+    "Size": 0,
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Config\\Tanning&LeatherWorking\\ConfigExaplantion.txt",
+    "Size": 822,
+    "MD5": "22ac1e3c6586a7519d9a1fbf67d0e13d"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Config\\Tanning&LeatherWorking\\Tanning&LeatherWorking.json",
+    "Size": 390,
+    "MD5": "0365013f7b134f4b4d13bac9d165fc8d"
+  },
+  {
+    "FileName": "Mods\\@TanningLeatherWorking\\Types.Xml\\Types.XML",
+    "Size": 10957,
+    "MD5": "1337462ae2af090c590c80fa43041d9c"
   },
   {
     "FileName": "Mods\\@ToFuVirtualStorage\\meta.cpp",
