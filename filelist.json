@@ -5,16 +5,6 @@
     "MD5": "14a6db156de5b3e224232f6251f839dd"
   },
   {
-    "FileName": "DayZ Launcher.exe",
-    "Size": 12819968,
-    "MD5": "6409a276b147e9df7e19968fdea15566"
-  },
-  {
-    "FileName": "DayZ Launcher.exe.config",
-    "Size": 552,
-    "MD5": "ea18aff34def054cc191cf77a13dfc7d"
-  },
-  {
     "FileName": "dayz.gproj",
     "Size": 1719,
     "MD5": "c3eb54b881b35859c09000f1695157ff"
@@ -30,21 +20,6 @@
     "MD5": "9ad8f201474df0523af00770c1fb5db8"
   },
   {
-    "FileName": "DiscordRPC.dll",
-    "Size": 83968,
-    "MD5": "3956130e36754f184a0443c850f708f8"
-  },
-  {
-    "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
-    "Size": 26752,
-    "MD5": "970b6e6478ae3ab699f277d77de0cd19"
-  },
-  {
-    "FileName": "Newtonsoft.Json.dll",
-    "Size": 711952,
-    "MD5": "195ffb7167db3219b217c4fd439eedd6"
-  },
-  {
     "FileName": "steam_api64.dll",
     "Size": 834560,
     "MD5": "30091b91923d9583a54a93ed1145554b"
@@ -58,11 +33,6 @@
     "FileName": "steam_appid.txt",
     "Size": 9,
     "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
-  },
-  {
-    "FileName": "System.Runtime.CompilerServices.Unsafe.dll",
-    "Size": 18024,
-    "MD5": "c610e828b54001574d86dd2ed730e392"
   },
   {
     "FileName": "Addons\\ai.pbo",
@@ -3715,16 +3685,6 @@
     "MD5": "9090cb1eaf4a6fb6915a02dee958e79e"
   },
   {
-    "FileName": "Mods\\@Darkside\\Addons\\FixVehiclePositions.pbo",
-    "Size": 29876,
-    "MD5": "909234c5bebf71a7988d891598ab826f"
-  },
-  {
-    "FileName": "Mods\\@Darkside\\Addons\\FixVehiclePositions.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "be5d9c1e5a8912991e763d7309f5739c"
-  },
-  {
     "FileName": "Mods\\@Darkside\\Addons\\GlobalChat.pbo",
     "Size": 42392,
     "MD5": "4473dfc03600c70952e510137639717a"
@@ -3763,6 +3723,16 @@
     "FileName": "Mods\\@Darkside\\Addons\\KOTH.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "beeacb14ecc881bbe9d0416f6683bee8"
+  },
+  {
+    "FileName": "Mods\\@Darkside\\Addons\\MODBAGSVIP.pbo",
+    "Size": 4736686,
+    "MD5": "bb7cddf80ff98631d61379c1ec94e60b"
+  },
+  {
+    "FileName": "Mods\\@Darkside\\Addons\\MODBAGSVIP.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "7761326d9fd62724be8edb1683c491ad"
   },
   {
     "FileName": "Mods\\@Darkside\\Addons\\newkillfeed.pbo",
@@ -4436,13 +4406,13 @@
   },
   {
     "FileName": "Mods\\@MMG\\Addons\\MMG_Retexture_Welliton.pbo",
-    "Size": 758177438,
-    "MD5": "d07ef3567a50e1d09586cfcde5e49d62"
+    "Size": 758178464,
+    "MD5": "f120d6ff084c1192a85056c6a69e7378"
   },
   {
     "FileName": "Mods\\@MMG\\Addons\\MMG_Retexture_Welliton.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "dc280e7242c50f33910fe32a6afbd0c4"
+    "MD5": "e28905176cb9a0a0911540b23a446e82"
   },
   {
     "FileName": "Mods\\@MMG\\Addons\\UnknownGhillieMod.pbo",
