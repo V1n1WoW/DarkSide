@@ -30,9 +30,14 @@
     "MD5": "9ad8f201474df0523af00770c1fb5db8"
   },
   {
+    "FileName": "steamclient64.dll",
+    "Size": 22808784,
+    "MD5": "0e95b53889a3da3a619ecbd077c28782"
+  },
+  {
     "FileName": "steam_api64.dll",
-    "Size": 834560,
-    "MD5": "30091b91923d9583a54a93ed1145554b"
+    "Size": 298856,
+    "MD5": "f3db5801dc9b75da671b39041e2e8bcf"
   },
   {
     "FileName": "steam_api64_s.dll",
@@ -43,6 +48,16 @@
     "FileName": "steam_appid.txt",
     "Size": 9,
     "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
+    "FileName": "tier0_s64.dll",
+    "Size": 403816,
+    "MD5": "c51e1b313d5b0edfa7d0a98c0030c401"
+  },
+  {
+    "FileName": "vstdlib_s64.dll",
+    "Size": 707944,
+    "MD5": "11cccc26939ea323d267f33998395708"
   },
   {
     "FileName": "Addons\\ai.pbo",
@@ -14270,6 +14285,21 @@
     "MD5": "01e68d43ca1778ec049951227eb0c422"
   },
   {
+    "FileName": "keys\\darkside.bikey",
+    "Size": 161,
+    "MD5": "a4eb69cb10377c702ccec46e01b18c7e"
+  },
+  {
+    "FileName": "keys\\darkside.biprivatekey",
+    "Size": 609,
+    "MD5": "352826e7519e84bbbd163ac7ad3ef81a"
+  },
+  {
+    "FileName": "keys\\dayz.bikey",
+    "Size": 157,
+    "MD5": "dab8cd347ae6bff266e060d8a658ef0b"
+  },
+  {
     "FileName": "Mods\\@APESArsenal\\meta.cpp",
     "Size": 100,
     "MD5": "91eb229e11775b8a21dac5e6202c979c"
@@ -14293,11 +14323,6 @@
     "FileName": "Mods\\@APESArsenal\\addons\\apesruger.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "a510d22b862aac74b63e99cd00a2969b"
-  },
-  {
-    "FileName": "Mods\\@APESArsenal\\addons\\APESWeapons.pbo",
-    "Size": 890866715,
-    "MD5": "8ca73f782d4febb431493c367f6ecb70"
   },
   {
     "FileName": "Mods\\@APESArsenal\\addons\\APESWeapons.pbo.darkside.bisign",
