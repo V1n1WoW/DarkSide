@@ -5,6 +5,11 @@
     "MD5": "14a6db156de5b3e224232f6251f839dd"
   },
   {
+    "FileName": "cream_api.ini",
+    "Size": 1300,
+    "MD5": "727adf62af191a4849eedb025b66d822"
+  },
+  {
     "FileName": "dayz.gproj",
     "Size": 1719,
     "MD5": "c3eb54b881b35859c09000f1695157ff"
@@ -958,6 +963,16 @@
     "FileName": "BattlEye\\BELauncher.ini",
     "Size": 92,
     "MD5": "484fa098bf0cbcfd81bf4025ca1a7b2b"
+  },
+  {
+    "FileName": "BattlEye\\beserver_x64.dll",
+    "Size": 415008,
+    "MD5": "eb5f3ddfcaf7984559d9f49dc46b7e82"
+  },
+  {
+    "FileName": "BattlEye\\beserver_x64.so",
+    "Size": 336048,
+    "MD5": "7b3397f6991325a5c802a6cd779381db"
   },
   {
     "FileName": "BattlEye\\BEService_x64.exe",
