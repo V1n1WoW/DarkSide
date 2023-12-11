@@ -1468,12 +1468,7 @@
     "FileName": "dta\\system.pbo.dayz.bisign",
     "Size": 557,
     "MD5": "66542442f25d363a0b802d61c629b27b"
-  },
-  {
-    "FileName": "keys\\dayz.bikey",
-    "Size": 157,
-    "MD5": "dab8cd347ae6bff266e060d8a658ef0b"
-  },
+  },  
   {
     "FileName": "Mods\\@APESArsenal\\meta.cpp",
     "Size": 100,
