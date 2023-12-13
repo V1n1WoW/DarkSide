@@ -3936,13 +3936,23 @@
   },
   {
     "FileName": "Mods\\@Heli\\meta.cpp",
-    "Size": 137,
-    "MD5": "126b0b6312a08ce1cb81f2b0fc237c23"
+    "Size": 117,
+    "MD5": "f6984d017eb5635248c4fabb2a77e312"
   },
   {
     "FileName": "Mods\\@Heli\\mod.cpp",
-    "Size": 642,
-    "MD5": "e10c85836a13c4e9359da74c9934dede"
+    "Size": 628,
+    "MD5": "0b22d1bfc65426f1f6a40bc8b9c3547b"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\0_RFFSHeli_Define.pbo",
+    "Size": 733,
+    "MD5": "3302836674a73fe9893b30e5e39e3404"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\0_RFFSHeli_Define.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "e75e01eee16d7b8a1822463eb4223b91"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Apache.pbo",
@@ -3975,6 +3985,16 @@
     "MD5": "91320cb0b527f70703a7bc5c8476335d"
   },
   {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_AS350.pbo",
+    "Size": 17580374,
+    "MD5": "59792c4abb827e7a4401e6b342cbeca5"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_AS350.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "a1ab6c89e2949efed3e855ecd79e6d62"
+  },
+  {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429.pbo",
     "Size": 18250130,
     "MD5": "a6c9796e5909bf923244b46ba566b931"
@@ -3983,46 +4003,6 @@
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "b990bacdc21f39fd541a4db275e36f6d"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_AfterLife.pbo",
-    "Size": 21592756,
-    "MD5": "e7478c541521720c31a79110818b8b56"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_AfterLife.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "c60cd39d338b8b3079fa6470357d377f"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Bloody.pbo",
-    "Size": 16726735,
-    "MD5": "ec1bbd7f20ea36b4d056f20b292617b9"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Bloody.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "2d2785c119e099a15ca3565fb807af22"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Clawz.pbo",
-    "Size": 7160111,
-    "MD5": "cc118e5740356be2e60ca245babb9ce8"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Clawz.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "d2b4c9ea9767ccdc4ed0cc41076e2fc5"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Devil.pbo",
-    "Size": 16104708,
-    "MD5": "93afd90b158cfb3ed1f6cc23e267cbef"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Devil.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "4ee03c8f9b3981beed3f06e3ee4aaf5f"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Medic.pbo",
@@ -4045,24 +4025,14 @@
     "MD5": "c58d57e8d637b8e631b3b058a763d3d4"
   },
   {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_PunisherPO.pbo",
-    "Size": 14251816,
-    "MD5": "04171807b11c951033582c03c40425a5"
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Uganda.pbo",
+    "Size": 3901557,
+    "MD5": "83b25fbd923109c4c184ecfbaba9487c"
   },
   {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_PunisherPO.pbo.darkside.bisign",
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Uganda.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "7b7afd46bdac1b0caee62a478d25a9b1"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Spongebob.pbo",
-    "Size": 7120695,
-    "MD5": "284323feb27aa334ad967138c39e8e88"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_Spongebob.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "df508e4db7c223de5b2f5f1ce3840269"
+    "MD5": "f459e51a267990ce458a723079bbf1b9"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bell429_ZS.pbo",
@@ -4125,16 +4095,6 @@
     "MD5": "604299c5a469985799f1fc21e5b5b620"
   },
   {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_Bane.pbo",
-    "Size": 4448222,
-    "MD5": "0088377675d8c98aa476f17a1840a94c"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_Bane.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "06e1918cb57756f39a0266468ce7a1a7"
-  },
-  {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_BlackCamo.pbo",
     "Size": 759060,
     "MD5": "b53f279317071176b3c5f22ee1eb4d92"
@@ -4143,26 +4103,6 @@
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_BlackCamo.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "36c9596e708d58dcbd78c9f4022f2124"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_Evil.pbo",
-    "Size": 3181713,
-    "MD5": "c9dba2dfc850b480742bb1c6d4e1b8fb"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_Evil.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "ea928db7edd3612cb202c89d6520837a"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_Ghost.pbo",
-    "Size": 2118590,
-    "MD5": "537af9fc66d34d4105efaff443d10be1"
-  },
-  {
-    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Bo105m_Ghost.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "5cfb486ded87f2dc7441574c97b09a8a"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_CH47.pbo",
@@ -4186,13 +4126,13 @@
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Core.pbo",
-    "Size": 36293252,
-    "MD5": "44a137ff926368d4bfe34746f133f62d"
+    "Size": 38884854,
+    "MD5": "49b6ab25aa932162483fb58b7aa56222"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Core.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "8338fcfa1fffaeabea2bb8a25d6acbd9"
+    "MD5": "ec4387290e7eab771fc65480ae57c418"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_EC135.pbo",
@@ -4316,13 +4256,13 @@
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_R22.pbo",
-    "Size": 8837023,
-    "MD5": "26ea8c14dd291741c892ca1936d32167"
+    "Size": 8837029,
+    "MD5": "01e4039e2aa52e724726790b06d0ad77"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_R22.pbo.darkside.bisign",
     "Size": 561,
-    "MD5": "00375bbdb21a3351c9c8eb65a663051b"
+    "MD5": "94970f7991edd18f8bec54a7ae988513"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_R22_Black.pbo",
@@ -4343,6 +4283,46 @@
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_R22_Red.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "803e84238fb0af14cfe0a2852ddc90fb"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_S76.pbo",
+    "Size": 17260534,
+    "MD5": "4522cce084fed2e41962992b611b5331"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_S76.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "fd758c72bfcd16c922eb65ce24bc2758"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_S76_WoodlandCamo.pbo",
+    "Size": 5911253,
+    "MD5": "4158492087a6579746573199447b25ba"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_S76_WoodlandCamo.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "227318109ef6f4371e85568f2a490d93"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_UH1H.pbo",
+    "Size": 14585984,
+    "MD5": "f70a29276fe7d8172bce9c2671033d34"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_UH1H.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "9a60c4ba6fc201215a8cb48391a09086"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_UH1H_Combat.pbo",
+    "Size": 14479827,
+    "MD5": "23c02a65cac6c9fd297fad95907c894d"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_UH1H_Combat.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "98efa2979a41d40464882ea23736c40f"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Uniform.pbo",
