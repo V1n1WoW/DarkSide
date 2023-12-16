@@ -3760,6 +3760,16 @@
     "MD5": "b5728ede0028e5d62db16cbb48394614"
   },
   {
+    "FileName": "Mods\\@Darkside\\Addons\\SpardaSpawnSelect.pbo",
+    "Size": 120940,
+    "MD5": "88768d7deaec3d3fcf2829d2d24275f2"
+  },
+  {
+    "FileName": "Mods\\@Darkside\\Addons\\SpardaSpawnSelect.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "3fd15e74feb434d591c2633b7f8bdc8c"
+  },
+  {
     "FileName": "Mods\\@Darkside\\Addons\\ZDependenciesKOTH.pbo",
     "Size": 427,
     "MD5": "6ec02f3397fdf26e3c390a89735a48c1"
@@ -4953,31 +4963,6 @@
     "FileName": "Mods\\@WindstridesClothingPack\\Addons\\WindstrideClothing.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "0678f543a3dbba727518a680c89ba8aa"
-  },
-  {
-    "FileName": "Mods\\@zSpawnSelection\\meta.cpp",
-    "Size": 103,
-    "MD5": "82a628599cccc0633509229ac34e929a"
-  },
-  {
-    "FileName": "Mods\\@zSpawnSelection\\Addons\\SpawnSelect.pbo",
-    "Size": 21970,
-    "MD5": "e0a14d6ca3f3ae13b20cea93695308e4"
-  },
-  {
-    "FileName": "Mods\\@zSpawnSelection\\Addons\\SpawnSelect.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "8b0923325d5759d0ed75e84fad4a8862"
-  },
-  {
-    "FileName": "Mods\\@zSpawnSelection\\ForYourServerProfile\\SpawnSelect\\SpawnLocations.txt",
-    "Size": 398,
-    "MD5": "30b01abb42d3f7e16c763ceaf0c6f953"
-  },
-  {
-    "FileName": "Mods\\@zSpawnSelection\\ForYourServerProfile\\SpawnSelect\\SpawnSettings.txt",
-    "Size": 71,
-    "MD5": "a96829358456d6833af583f1451b2166"
   },
   {
     "FileName": "_Essenciais\\dxwebsetup.exe",
