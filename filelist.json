@@ -4885,6 +4885,21 @@
     "MD5": "95ae3358b8e2015155fd17f5abdaec2d"
   },
   {
+    "FileName": "Mods\\@TraderPlusDeployVehicles\\meta.cpp",
+    "Size": 121,
+    "MD5": "f66f3ceb221fa0d444111130c1a7c731"
+  },
+  {
+    "FileName": "Mods\\@TraderPlusDeployVehicles\\addons\\TraderPlus_Disable_DeployVehicles.pbo",
+    "Size": 780,
+    "MD5": "d16cb0634ffc91fb109ed7bbfe218933"
+  },
+  {
+    "FileName": "Mods\\@TraderPlusDeployVehicles\\addons\\TraderPlus_Disable_DeployVehicles.pbo.darkside.bisign",
+    "Size": 561,
+    "MD5": "0921b705270a998f457265a25c3e8f7f"
+  },
+  {
     "FileName": "Mods\\@VanillaPlusPlusMap\\meta.cpp",
     "Size": 106,
     "MD5": "6934d6f689b71c1b334ce3806367aee4"
