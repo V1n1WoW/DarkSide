@@ -4705,21 +4705,6 @@
     "MD5": "ce4edead49a9ca1c70f6d479c6df0f9a"
   },
   {
-    "FileName": "Mods\\@STALKERMutants\\meta.cpp",
-    "Size": 109,
-    "MD5": "f2da00fd73bf1790dc68fb33d163a789"
-  },
-  {
-    "FileName": "Mods\\@STALKERMutants\\addons\\XZ_STALKER_Mutants.pbo",
-    "Size": 781919564,
-    "MD5": "db3f84d2f353ff5643bcab42024a4944"
-  },
-  {
-    "FileName": "Mods\\@STALKERMutants\\addons\\XZ_STALKER_Mutants.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "3e345af557f0fc3e9f11eaff42cfb4ae"
-  },
-  {
     "FileName": "Mods\\@TanningLeatherWorking\\meta.cpp",
     "Size": 113,
     "MD5": "9e9a46f4e675299de7867451d8ed6f18"
@@ -4958,26 +4943,6 @@
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo.darkside.bisign",
     "Size": 561,
     "MD5": "fa2889fd2e1e5f8cb5cb74068e7a292f"
-  },
-  {
-    "FileName": "Mods\\@WindstridesClothingPack\\meta.cpp",
-    "Size": 111,
-    "MD5": "23bf42011af36c3f679bb70ad4443a68"
-  },
-  {
-    "FileName": "Mods\\@WindstridesClothingPack\\mod.cpp",
-    "Size": 721,
-    "MD5": "20e30dfcb0640e4e40cff4dea84333d9"
-  },
-  {
-    "FileName": "Mods\\@WindstridesClothingPack\\Addons\\WindstrideClothing.pbo",
-    "Size": 789269790,
-    "MD5": "dda2d864f0e9dff84d57561a8e7a99d7"
-  },
-  {
-    "FileName": "Mods\\@WindstridesClothingPack\\Addons\\WindstrideClothing.pbo.darkside.bisign",
-    "Size": 561,
-    "MD5": "0678f543a3dbba727518a680c89ba8aa"
   },
   {
     "FileName": "_Essenciais\\dxwebsetup.exe",
